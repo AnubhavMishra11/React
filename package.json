@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "My first react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnubhavMishra11/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Anubhav Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnubhavMishra11/React/issues"
+  },
+  "homepage": "https://github.com/AnubhavMishra11/React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
